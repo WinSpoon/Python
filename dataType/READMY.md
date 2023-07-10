@@ -15,4 +15,5 @@
 7. **사전 (Dictionary)**<br>- 사전 (`dict`): 키(key)와 값(value)의 쌍을 담는 자료형입니다. 키와 값은 콜론(`:`)으로 연결되고, 각 쌍들은 쉼표로 구분됩니다. 예: `{'name': 'John', 'age': 30, 'city': 'Seoul'}`
 
 
-## [목차](./READMY.md/#data-type)
+<!-- ## [목차](./READMY.md) -->
+<a href="./READMY.md#DataType">목차</a>

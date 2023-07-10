@@ -47,8 +47,11 @@ ___교재___
 ___목차___ <br>
 ## Chapter 2. Python 입문
 #### Data Type
-- [자료형](./dataType/READMY.md)
+<div id="DataType">
+<!-- 특정 위치에 해당하는 내용 -->
+</div>
 
+- [자료형](./dataType/READMY.md)
 - 2-2 변수
 - 2-3 함수의 개념
 - 2-4 패키지, 모듈, 라이브러리
