@@ -1,43 +1,22 @@
 
 ## Python install
-  - python 3.7.2 [download](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe)<br>
+###  - `python 3.7.2` [download](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe)<br>
 
 <!-- 이미지 가운데 정렬 -->
 <p align="center">
-  <img src="./image/111.png" alt="install_01">
-</p>
-
-<!-- 이미지 가운데 정렬 -->
-<p align="center">
-  <img src="./image/222.png" alt="install_02">
-</p>
-
-<!-- 이미지 가운데 정렬 -->
-<p align="center">
-  <img src="./image/333.png" alt="install_03">
-</p>
-
-<!-- 이미지 가운데 정렬 -->
-<p align="center">
-  <img src="./image/444.jpg" alt="install_04">
-</p>
-
-<!-- 이미지 가운데 정렬 -->
-<p align="center">
-  <img src="./image/555.png" alt="install_05">
-</p>
-
-<!-- 이미지 가운데 정렬 -->
-<p align="center">
-  <img src="./image/666.png" alt="install_06">
+  <img src="./image/111.png" alt="install_01"><br><br>
+  <img src="./image/222.png" alt="install_02"><br><br>
+  <img src="./image/333.png" alt="install_03"><br><br
+  <img src="./image/444.jpg" alt="install_04"><br><br>
+  <img src="./image/555.png" alt="install_05"><br><br>
+  <img src="./image/666.png" alt="install_06"><br><br>
 </p>
 
 
 ---
 
 ## ANACONDA install
-
-- ANACONDA [download](https://www.anaconda.com/download)
+### - `ANACONDA` [download](https://www.anaconda.com/download)
 <p align="center">
   <img src="./image/anaconda.png" alt="anaconda.png"><br><br>
   <img src="./image/anaconda_1.png" alt="anaconda.png"><br><br>
@@ -47,22 +26,26 @@
 </p>
 
 ## jupyter notebook install
-- 방법1
+
+### - `방법 1`
 <p align="center">
   <img src="./image/anaconda_5.png" alt="anaconda.png"><br><br>
   <img src="./image/anaconda_6.png" alt="anaconda.png"><br><br>
   <img src="./image/anaconda_7.png" alt="anaconda.png">
 </p>
 
-- 방법2
+---
+
+### - `방법2`
 
 <!-- 이미지 가운데 정렬 -->
 <p align="center">
   <img src="./image/444.jpg" alt="install_04"><br><br>
   <img src="./image/555.png" alt="install_05">
 </p>
+<br>
 
-- C 드라이브로 이동
+#### `C 드라이브로 이동`
 <p align="center">
   <img src="./image/console_1.png" alt="anaconda.png">
 </p>
@@ -70,7 +53,9 @@
 `````
 cd\
 `````
-- 사용할 폴더 생성
+<br>
+
+#### `사용할 폴더 생성`
 <p align="center">
   <img src="./image/console_2.png" alt="anaconda.png">
 </p>
@@ -78,7 +63,9 @@ cd\
 `````
 md (사용할 폴더 이름)
 `````
-- 생성된 폴더로 이동
+<br>
+
+#### `생성된 폴더로 이동`
 <p align="center">
   <img src="./image/console_3.png" alt="anaconda.png">
 </p>
@@ -86,7 +73,9 @@ md (사용할 폴더 이름)
 `````
 cd (생성된 폴더 이름)
 `````
-- jupyter notebook 설치
+<br>
+
+#### `jupyter notebook 설치`
 <p align="center">
   <img src="./image/console_4.png" alt="anaconda.png">
 </p>
@@ -94,7 +83,9 @@ cd (생성된 폴더 이름)
 `````
 pip install jupyter notebook
 `````
-- jupyter notebook 실행
+<br>
+
+#### `jupyter notebook 실행`
 <p align="center">
   <img src="./image/console_5.png" alt="anaconda.png">
 </p>
@@ -103,6 +94,9 @@ pip install jupyter notebook
 jupyter notebook
 `````
 
+- 두 가지 방법 중 아무거나 선택해서 설치.
+
+---
 
 ___교재___
 
@@ -113,15 +107,15 @@ ___교재___
 
 
 
-___목차___ <br>
+___목차___
 ## Chapter 2. Python 입문
 #### Data Type
 <div id="DataType">
 <!-- 특정 위치에 해당하는 내용 -->
 </div>
 
-- [자료형](./dataType/READMY.md)
-- 2-2 변수
+- [자료형](./01_dataType/dataType.md)
+- [변수](./02_Variable/Variable.md)
 - 2-3 함수의 개념
 - 2-4 패키지, 모듈, 라이브러리
 - 2-5 흐름의 제어
