@@ -2,17 +2,34 @@
 ## Python install
 ###  - `python 3.7.2` [download](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe)<br>
 
+
+<style>
+  .centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px; /* 이미지의 최대 높이 */
+  }
+
+  .centered-image img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* 이미지 비율 유지 */
+  }
+</style>
+
 <!-- 이미지 가운데 정렬 -->
 <p align="center">
   <img src="./image/111.png" alt="install_01"><br><br>
   <img src="./image/222.png" alt="install_02"><br><br>
-  <img src="./image/333.png" alt="install_03"><br><br
+  <img src="./image/333.png" alt="install_03"><br><br>
   <img src="./image/444.jpg" alt="install_04"><br><br>
-  <img src="./image/555.png" alt="install_05"><br><br>
-  <img src="./image/666.png" alt="install_06"><br><br>
-</p>
-
-
+  <img src="./image/555.png" alt="install_05" width="600" height="300"><br><br>
+  </p>
+  <div class="centered-image">
+    <img src="./image/666.png" alt="install_06.png">
+  </div>
+  
 ---
 
 ## ANACONDA install
@@ -102,7 +119,7 @@ ___교재___
 
 <!-- 이미지 가운데 정렬 -->
 <p align="center">
-  <img src="./image/777.png" alt="install_07">
+  <img src="./image/book.png" alt="install_07">
 </p>
 
 
@@ -114,8 +131,8 @@ ___목차___
 <!-- 특정 위치에 해당하는 내용 -->
 </div>
 
-- [자료형](./01_dataType/dataType.md)
-- [변수](./02_Variable/Variable.md)
+- [자료형](./Chapter_2/dataType.md)
+- [변수](./Chapter_2/Variable.md)
 - 2-3 함수의 개념
 - 2-4 패키지, 모듈, 라이브러리
 - 2-5 흐름의 제어
