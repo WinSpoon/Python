@@ -16,4 +16,4 @@
 
 
 <!-- ## [목차](./READMY.md) -->
-<a href="../READMY.md#DataType">목차</a>
+<a href="../READMY.md">목차</a>

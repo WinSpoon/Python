@@ -35,6 +35,75 @@
 
 ---
 
+## ANACONDA install
+
+- ANACONDA [download](https://www.anaconda.com/download)
+<p align="center">
+  <img src="./image/anaconda.png" alt="anaconda.png"><br><br>
+  <img src="./image/anaconda_1.png" alt="anaconda.png"><br><br>
+  <img src="./image/anaconda_2.png" alt="anaconda.png"><br><br>
+  <img src="./image/anaconda_3.png" alt="anaconda.png"><br><br>
+  <img src="./image/anaconda_4.png" alt="anaconda.png"><br><br>
+</p>
+
+## jupyter notebook install
+- 방법1
+<p align="center">
+  <img src="./image/anaconda_5.png" alt="anaconda.png"><br><br>
+  <img src="./image/anaconda_6.png" alt="anaconda.png"><br><br>
+  <img src="./image/anaconda_7.png" alt="anaconda.png">
+</p>
+
+- 방법2
+
+<!-- 이미지 가운데 정렬 -->
+<p align="center">
+  <img src="./image/444.jpg" alt="install_04"><br><br>
+  <img src="./image/555.png" alt="install_05">
+</p>
+
+- C 드라이브로 이동
+<p align="center">
+  <img src="./image/console_1.png" alt="anaconda.png">
+</p>
+
+`````
+cd\
+`````
+- 사용할 폴더 생성
+<p align="center">
+  <img src="./image/console_2.png" alt="anaconda.png">
+</p>
+
+`````
+md (사용할 폴더 이름)
+`````
+- 생성된 폴더로 이동
+<p align="center">
+  <img src="./image/console_3.png" alt="anaconda.png">
+</p>
+
+`````
+cd (생성된 폴더 이름)
+`````
+- jupyter notebook 설치
+<p align="center">
+  <img src="./image/console_4.png" alt="anaconda.png">
+</p>
+
+`````
+pip install jupyter notebook
+`````
+- jupyter notebook 실행
+<p align="center">
+  <img src="./image/console_5.png" alt="anaconda.png">
+</p>
+
+`````
+jupyter notebook
+`````
+
+
 ___교재___
 
 <!-- 이미지 가운데 정렬 -->
